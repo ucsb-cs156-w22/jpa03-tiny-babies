@@ -1,4 +1,14 @@
-# demo-spring-react-example: dsre
+# Github Repo links:
+
+- https://github.com/ucsb-cs156-w22/jpa03-tiny-babies
+- https://github.com/ucsb-cs156-w22/jpa03-tiny-babies-docs
+- https://github.com/ucsb-cs156-w22/jpa03-tiny-babies-docs-qa
+
+# Heroku Link:
+
+- https://jpa03-njohnson.herokuapp.com/
+
+# Storybook links:
 
 Storybook is here:
 
