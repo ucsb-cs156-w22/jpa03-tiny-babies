@@ -49,7 +49,7 @@ On Heroku, you'll need to set the following configuration variable:
 
 - Using the Heroku CLI:
   ```
-  heroku config:set PRODUCTION=true --app <heroku app name>
+  heroku config:set PRODUCTION=true --app jpa03-njohnson
   ```
 - Or set it on the Heroku Dashboard:
   ![image](https://user-images.githubusercontent.com/1119017/149855768-7b56164a-98f7-4357-b877-da34b7bd9ea4.png)
@@ -107,3 +107,7 @@ To access the swagger API endpoints, use:
   - Enter `psql $DATABASE_URL` and click `Run`
 
     <img alt="Enter psql $DATABASE_URL and click Run" src="https://user-images.githubusercontent.com/1119017/150206174-43193825-1afd-49f4-aeaf-cfadf0c0c6f3.png" width="400" />
+
+# My Codecov 
+
+    [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tiny-babies/branch/main/graph/badge.svg?token=csJf3vwAkP)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tiny-babies)
