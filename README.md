@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tiny-babies/branch/main/graph/badge.svg?token=csJf3vwAkP)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tiny-babies)
+
 # Github Repo links:
 
 - https://github.com/ucsb-cs156-w22/jpa03-tiny-babies
